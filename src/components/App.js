@@ -1,7 +1,4 @@
-// import logo from './logo.svg';
-// import avatar from '../images/profile-avatar.jpg';
 import React from "react";
-
 import Header from "./Header";
 import Main from "./Main";
 import Footer from "./Footer";
