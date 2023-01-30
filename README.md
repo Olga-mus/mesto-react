@@ -30,3 +30,7 @@ Nested БЭМ, Flexbox, Grid Layout, HTML, CSS, Java Script, React.js.
 **Ссылка на проект**
 
 [GitHub Pages](https://olga-mus.github.io/mesto/)
+
+**Статус проекта:**
+
+Завершено
